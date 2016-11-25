@@ -1,4 +1,4 @@
-package me.corin22225.chatfilter;
+package me.corin9876.chatfilter;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
