@@ -1,4 +1,4 @@
-package me.corin9876.chatfilter;
+package me.foxvific.chatfilter;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

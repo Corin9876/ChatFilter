@@ -1,4 +1,4 @@
 name: ChatFilter
-main: me.glorybot.chatfilter.ChatFilter
+main: me.foxvific.chatfilter.ChatFilter
 version: 1.0
-author: Glorybot
+author: Foxvific
